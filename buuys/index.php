@@ -123,7 +123,7 @@ $page = isset($_GET['page']) ? $_GET['page'] : 'home';
     <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
         <div class="container">
             <a class="navbar-brand" href="#">
-                <img src="assets/Buuys.logo.png" alt="E-Shop Logo - Modern e-commerce platform with shopping cart icon">
+                <img src="Buuys.logo.png" alt="E-Shop Logo - Modern e-commerce platform with shopping cart icon">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
