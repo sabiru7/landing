@@ -2,6 +2,7 @@
 // Simple PHP routing for demo purposes
 $page = isset($_GET['page']) ? $_GET['page'] : 'home';
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
